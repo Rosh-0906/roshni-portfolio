@@ -1,0 +1,16 @@
+{
+  "name": "roshni-portfolio",
+  "version": "1.0.0",
+  "description": "Roshni Bharath's portfolio website with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["portfolio", "speed-insights"],
+  "author": "Roshni Bharath",
+  "license": "ISC",
+  "packageManager": "pnpm@10.34.3",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
